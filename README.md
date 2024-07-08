@@ -1,5 +1,5 @@
 <div align="center">
-    [Image](./screenshots/snapgram.png)
+      <img src="./screenshots/snapgram.png" alt="Project Banner">
   <br />
 
   <div>
